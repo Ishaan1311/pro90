@@ -1,0 +1,3 @@
+Calculator App
+
+Everyone can use this calculator app if they are struggling to do math or work in a shop and want to find price or change.
